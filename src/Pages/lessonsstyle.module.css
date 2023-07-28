@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    text-align: center;
+    padding: 5rem;
+    margin: -8px;
+    padding-bottom: 30rem;
+    padding-top: 10rem;
+    background-size: cover;
+    background-image: url(../imgs/titleimg.jpg);
+}
+

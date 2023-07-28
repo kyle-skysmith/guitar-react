@@ -1,0 +1,22 @@
+.title {
+    color: white;
+    text-align: center;
+    padding: 5rem;
+    margin: -8px;
+    font-size: 30px;
+    background-size: cover;
+    z-index: 1;
+    background-image: url(../imgs/titleimg.jpg);
+}
+
+.downloads {
+    
+     color: white;
+    padding: 5rem;
+    margin: -10px;
+    padding-bottom: 30rem;
+    text-align: center;
+}
+
+
+
