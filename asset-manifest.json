@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guitar-react/static/css/main.510da635.css",
+    "main.js": "/guitar-react/static/js/main.01162fe8.js",
+    "static/media/titleimg.jpg": "/guitar-react/static/media/titleimg.a7afc54f5878e49470f1.jpg",
+    "static/media/kyle.jpg": "/guitar-react/static/media/kyle.23d27a57da4b3830d613.jpg",
+    "static/media/BasicChords.pdf": "/guitar-react/static/media/BasicChords.7a4bdea44266e38632fc.pdf",
+    "index.html": "/guitar-react/index.html",
+    "main.510da635.css.map": "/guitar-react/static/css/main.510da635.css.map",
+    "main.01162fe8.js.map": "/guitar-react/static/js/main.01162fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510da635.css",
+    "static/js/main.01162fe8.js"
+  ]
+}
